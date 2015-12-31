@@ -8,7 +8,7 @@ class Cleaner:
                             region_name=config['region_name'])
                             
     def clean_all(self):
-        #self.clean_ec2()
+        self.clean_ec2()
         self.clean_iam()
         return True
         
