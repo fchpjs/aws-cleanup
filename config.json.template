@@ -1,0 +1,9 @@
+{
+    "aws_access_key_id": "<AWS ACCESS KEY ID>",
+    "aws_secret_access_key": "<AWS SECRET ACCESS KEY>",
+    "region_name": "ap-southeast-1",
+    "protected_users": [
+        "cleanup",
+        "john.doe"
+    ]
+}
